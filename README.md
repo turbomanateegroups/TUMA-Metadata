@@ -10,7 +10,8 @@ All assets here are verified and approved by the Turbo Manatee Team for use on e
 | File Name | Description | Format / Size |
 |------------|-------------|---------------|
 | **TUMA_Logo_256x256.png** | Primary logo for BscScan, Trust Wallet, and DEX icons | 256 × 256 px, PNG (< 100 KB) |
-| **TUMA_Logo_32x32 PNG.png** | Favicon / small display icon for wallet lists or token trackers | 32 × 32 px, PNG |
+| **TUMA_Logo_32x32.png** | Favicon / small display icon for wallet lists or token trackers | 32 × 32 px, PNG |
+| **TUMA_Logo_64x64.png** | Favicon / small display icon for wallet lists or token trackers | 64 × 64 px, PNG |
 | **TUMA_Logo_32x32.svg** | Vector version for web and high-resolution printing | SVG |
 | **README.md** | Brand usage guidelines and file descriptions | Markdown document |
 
