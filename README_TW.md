@@ -10,8 +10,8 @@
 | 檔案名稱 | 用途說明 | 規格 |
 |------------|-----------|------|
 | **TUMA_Logo_256x256.png** | 主要代幣標誌，用於 BscScan、Trust Wallet、DEX 圖示等 | 256 × 256 px，PNG（透明背景，100 KB 以下） |
-| **TUMA_Logo_32x32 PNG.png** | 小尺寸圖示，用於錢包列表或網站 favicon | 32 × 32 px，PNG |
-| **TUMA_Logo_64x64 PNG.png** | 小尺寸圖示，用於錢包列表或網站 favicon | 64 × 64 px，PNG |
+| **TUMA_Logo_32x32.png** | 小尺寸圖示，用於錢包列表或網站 favicon | 32 × 32 px，PNG |
+| **TUMA_Logo_64x64.png** | 小尺寸圖示，用於錢包列表或網站 favicon | 64 × 64 px，PNG |
 | **TUMA_Logo_32x32.svg** | 向量檔版本，適用於網頁與高解析度印刷 | SVG |
 | **README.md** | 品牌使用說明文件 | Markdown 格式 |
 
