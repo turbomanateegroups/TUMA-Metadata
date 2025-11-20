@@ -1,0 +1,25 @@
+{
+  "name": "Turbo Manatee",
+  "symbol": "TUMA",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "Turbo Manatee (TUMA) is a decentralized meme-powered token on the BNB Smart Chain. Fully renounced, community-driven, and built for transparency, fairness, and long-term Web3 growth.",
+  "website": "https://www.turbomanatee.com/",
+  "explorer": "https://bscscan.com/token/0xeD89776141b1A62ADfbf3c243b75600Eb2c4b430",
+  "status": "active",
+  "id": "0xeD89776141b1A62ADfbf3c243b75600Eb2c4b430",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/Turbo_Manatee"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/Turbo_Manatee"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/turbomanateegroups"
+    }
+  ]
+}
