@@ -38,7 +38,7 @@ All assets here are verified and approved by the Turbo Manatee Team for use on e
 | **Decimals** | 18 |
 | **Contract Address** | [`0xed89776141b1a62adfbf3c243b75600eb2c4b430`](https://bscscan.com/token/0xed89776141b1a62adfbf3c243b75600eb2c4b430) |
 | **Total Supply** | 100,000,000 TUMA |
-| **Website** | [https://turbomanatee.com](https://turbomanatee.com) |
+| **Website** | [https://turbomanatee.com](https://www.turbomanatee.com) |
 | **GitHub Organization** | [turbomanateegroups](https://github.com/turbomanateegroups) |
 
 ---
@@ -53,5 +53,5 @@ They are released for public use under the [MIT License](https://opensource.org/
 ## 📧 Contact
 
 **Turbo Manatee Team**  
-🌐 [Website](https://turbomanatee.com) | 🐦 [X (Twitter)](https://twitter.com/Turbo_Manatee) | 💬 [Telegram](https://t.me/Turbo_Manatee)  
+🌐 [Website](https://www.turbomanatee.com) | 🐦 [X (Twitter)](https://twitter.com/Turbo_Manatee) | 💬 [Telegram](https://t.me/Turbo_Manatee)  
 📩 turbomanateegroups@gmail.com
