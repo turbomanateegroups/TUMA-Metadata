@@ -11,6 +11,7 @@
 |------------|-----------|------|
 | **TUMA_Logo_256x256.png** | 主要代幣標誌，用於 BscScan、Trust Wallet、DEX 圖示等 | 256 × 256 px，PNG（透明背景，100 KB 以下） |
 | **TUMA_Logo_32x32 PNG.png** | 小尺寸圖示，用於錢包列表或網站 favicon | 32 × 32 px，PNG |
+| **TUMA_Logo_64x64 PNG.png** | 小尺寸圖示，用於錢包列表或網站 favicon | 64 × 64 px，PNG |
 | **TUMA_Logo_32x32.svg** | 向量檔版本，適用於網頁與高解析度印刷 | SVG |
 | **README.md** | 品牌使用說明文件 | Markdown 格式 |
 
@@ -35,9 +36,9 @@
 | **代號** | TUMA |
 | **類型** | BEP20（Binance Smart Chain） |
 | **小數位數** | 18 |
-| **合約地址** | [`0x52d105dF96887f1B69EF93b55A53A12597485D79`](https://bscscan.com/token/0x52d105dF96887f1B69EF93b55A53A12597485D79) |
+| **合約地址** | [`0xeD89776141b1A62ADfbf3c243b75600Eb2c4b430`](https://bscscan.com/token/0xeD89776141b1A62ADfbf3c243b75600Eb2c4b430) |
 | **總供應量** | 100,000,000 TUMA |
-| **官方網站** | [https://turbomanatee.com](https://turbomanatee.com) |
+| **官方網站** | [https://turbomanatee.com](https://www.turbomanatee.com) |
 | **GitHub 組織** | [turbomanateegroups](https://github.com/turbomanateegroups) |
 
 ---
@@ -52,5 +53,5 @@
 ## 📧 聯絡方式
 
 **Turbo Manatee 官方團隊**  
-🌐 [官方網站](https://turbomanatee.com) ｜ 🐦 [X（Twitter）](https://twitter.com/Turbo_Manatee) ｜ 💬 [Telegram](https://t.me/Turbo_Manatee)  
+🌐 [官方網站](https://www.turbomanatee.com) ｜ 🐦 [X（Twitter）](https://twitter.com/Turbo_Manatee) ｜ 💬 [Telegram](https://t.me/Turbo_Manatee)  
 📩 turbomanateegroups@gmail.com
