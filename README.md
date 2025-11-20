@@ -1,57 +1,76 @@
-#  Turbo Manatee (TUMA) — Official Brand Assets
+# Turbo Manatee (TUMA) – Official Metadata Repository
 
-This repository contains the **official logo and brand materials** for the Turbo Manatee (TUMA) token on the Binance Smart Chain (BEP20).  
-All assets here are verified and approved by the Turbo Manatee Team for use on exchanges, listings, and promotional materials.
+This repository contains the official metadata, documentation, and token assets for **Turbo Manatee (TUMA)** on the **BNB Smart Chain**.
 
----
-
-## 📂 Folder Contents
-
-| File Name | Description | Format / Size |
-|------------|-------------|---------------|
-| **TUMA_Logo_256x256.png** | Primary logo for BscScan, Trust Wallet, and DEX icons | 256 × 256 px, PNG (< 100 KB) |
-| **TUMA_Logo_32x32.png** | Favicon / small display icon for wallet lists or token trackers | 32 × 32 px, PNG |
-| **TUMA_Logo_64x64.png** | Favicon / small display icon for wallet lists or token trackers | 64 × 64 px, PNG |
-| **TUMA_Logo_32x32.svg** | Vector version for web and high-resolution printing | SVG |
-| **README.md** | Brand usage guidelines and file descriptions | Markdown document |
+All files stored here are intended for:
+- BscScan Token Information & Logo Update  
+- TrustWallet asset verification  
+- Public reference for transparency  
+- DEX / Wallet integrations  
 
 ---
 
-## 🧭 Brand Guidelines
+## 📌 Contract Information
 
-- **Color Theme** : #D4AF37 (golden) with cosmic gradient accents #8B5CF6 – #22D3EE  
-- **Background** : Transparent only (no solid fill)  
-- **Aspect Ratio** : 1 : 1 (circle preferred for wallets and token lists)  
-- **Minimum Display Size** : 32 × 32 px  
-- **Usage** : Authorized only for Turbo Manatee (TUMA) token representations and official communications.  
-   Any third-party usage must preserve the logo integrity and not alter colors or proportions.
-
----
-
-## 🧾 Token Information
-
-| Field | Detail |
-|-------|---------|
-| **Name** | Turbo Manatee |
-| **Symbol** | TUMA |
-| **Type** | BEP20 (Binance Smart Chain) |
-| **Decimals** | 18 |
-| **Contract Address** | [`0xed89776141b1a62adfbf3c243b75600eb2c4b430`](https://bscscan.com/token/0xed89776141b1a62adfbf3c243b75600eb2c4b430) |
-| **Total Supply** | 100,000,000 TUMA |
-| **Website** | [https://turbomanatee.com](https://www.turbomanatee.com) |
-| **GitHub Organization** | [turbomanateegroups](https://github.com/turbomanateegroups) |
+**Token Name:** Turbo Manatee  
+**Symbol:** TUMA  
+**Chain:** BNB Smart Chain (BEP20)  
+**Contract Address:** `0xeD89776141b1A62ADfbf3c243b75600Eb2c4b430`  
+**Decimals:** 18  
 
 ---
 
-##   License & Attribution
+## 📁 Included Files
 
-All images and logos in this repository are © 2025 Turbo Manatee Team.  
-They are released for public use under the [MIT License](https://opensource.org/licenses/MIT) **only** for purposes related to TUMA token representation.
+### 🔹 Token Assets
+- `TUMA_Logo_64x64.png`
+- `TUMA_Logo_32x32.svg`
+- `TUMA_Logo_32x32.png`
+- `TUMA_Logo_256x256.png` (for general branding use)
+
+### 🔹 Metadata
+- `info.json` — Standard BEP20 token metadata (website, explorer, links, etc.)
+
+### 🔹 Documentation
+- `Proof_of_Ownership_TurboManatee.pdf`
+- `TurboManatee_Tokenomics_Distribution_EN_v1.1.pdf`
+- `TurboManatee_Tokenomics_Distribution_CN_v1.1.pdf`
+- `TurboManatee_Tokenomics_Distribution_TW_v1.1.pdf`
+- `TurboManatee_Whitepaper_EN_v1.1.pdf`
+- `TurboManatee_Whitepaper_CN_v1.1.pdf`
+- `TurboManatee_Whitepaper_TW_v1.1.pdf`
+
+---
+
+## 🌐 Official Links
+
+- **Website:** https://www.turbomanatee.com/  
+- **Telegram:** https://t.me/Turbo_Manatee  
+- **X (Twitter):** https://x.com/Turbo_Manatee  
+- **GitHub Organization:** https://github.com/turbomanateegroups  
+
+---
+
+## 🔒 Transparency & Verification
+
+Turbo Manatee (TUMA) is a fully decentralized, community-driven token with:
+- Renounced ownership  
+- Locked liquidity allocations  
+- Public tokenomics  
+- Open-source documentation  
+
+This repository provides all materials required for third-party verification platforms.
 
 ---
 
 ## 📧 Contact
 
-**Turbo Manatee Team**  
-🌐 [Website](https://www.turbomanatee.com) | 🐦 [X (Twitter)](https://twitter.com/Turbo_Manatee) | 💬 [Telegram](https://t.me/Turbo_Manatee)  
-📩 turbomanateegroups@gmail.com
+Official email: **turbomanateegroups@gmail.com**
+
+For BscScan / TrustWallet reviewers:  
+Please feel free to contact us if any additional files or clarification is required.
+
+---
+
+**Turbo Manatee Official Team**  
+Empowering Web3 through transparency and community.
