@@ -1,57 +1,80 @@
-# Turbo Manatee (TUMA) — 官方品牌素材庫
+# Turbo Manatee (TUMA) – 官方 Metadata 資料庫
 
-本資料夾為 **Turbo Manatee (TUMA)** 官方品牌資產庫，收錄所有已核可的代幣標誌與識別素材。  
-這些檔案由 Turbo Manatee 團隊正式發布，用於交易所上架、代幣清單、行銷宣傳與相關品牌使用。
+此資料庫為 **Turbo Manatee（TUMA）** 在 **BNB Smart Chain** 官方使用的  
+代幣圖標、Metadata、白皮書及相關文件的集中儲存庫。
 
----
-
-## 📂 檔案內容說明
-
-| 檔案名稱 | 用途說明 | 規格 |
-|------------|-----------|------|
-| **TUMA_Logo_256x256.png** | 主要代幣標誌，用於 BscScan、Trust Wallet、DEX 圖示等 | 256 × 256 px，PNG（透明背景，100 KB 以下） |
-| **TUMA_Logo_32x32.png** | 小尺寸圖示，用於錢包列表或網站 favicon | 32 × 32 px，PNG |
-| **TUMA_Logo_64x64.png** | 小尺寸圖示，用於錢包列表或網站 favicon | 64 × 64 px，PNG |
-| **TUMA_Logo_32x32.svg** | 向量檔版本，適用於網頁與高解析度印刷 | SVG |
-| **README.md** | 品牌使用說明文件 | Markdown 格式 |
+本資料庫之內容用於：
+- BscScan 代幣資訊與圖標更新  
+- TrustWallet 審核  
+- 錢包／DEX／第三方平台驗證  
+- 提供社群與用戶查閱的公開文件  
+- 加強專案透明度  
 
 ---
 
-## 🧭 品牌識別規範
+## 📌 合約資訊（Contract Information）
 
-- **主色系**：#D4AF37（金色）搭配宇宙漸層 #8B5CF6 – #22D3EE  
-- **背景**：透明背景（不可加黑白底）  
-- **比例**：1 : 1（建議圓形邊界，符合錢包圖示風格）  
-- **最小顯示尺寸**：32 × 32 px  
-- **使用限制**：僅限代表 Turbo Manatee (TUMA) 官方用途，不可任意更改顏色、比例或形狀。  
-- **第三方使用**：若需引用於新聞、合作或展示用途，請保持原圖完整性並註明來源。  
-
----
-
-## 🧾 代幣資訊
-
-| 欄位 | 資料 |
-|------|------|
-| **名稱** | Turbo Manatee |
-| **代號** | TUMA |
-| **類型** | BEP20（Binance Smart Chain） |
-| **小數位數** | 18 |
-| **合約地址** | [`0xeD89776141b1A62ADfbf3c243b75600Eb2c4b430`](https://bscscan.com/token/0xeD89776141b1A62ADfbf3c243b75600Eb2c4b430) |
-| **總供應量** | 100,000,000 TUMA |
-| **官方網站** | [https://turbomanatee.com](https://www.turbomanatee.com) |
-| **GitHub 組織** | [turbomanateegroups](https://github.com/turbomanateegroups) |
+**代幣名稱（Name）：** Turbo Manatee  
+**代號（Symbol）：** TUMA  
+**鏈（Chain）：** BNB Smart Chain（BEP20）  
+**合約地址（Contract）：** `0xeD89776141b1A62ADfbf3c243b75600Eb2c4b430`  
+**小數位數（Decimals）：** 18  
 
 ---
 
-##  授權與版權聲明
+## 📁 本資料庫包含內容
 
-本資料夾內所有圖像與商標 © 2025 Turbo Manatee Team。  
-授權依據 [MIT License](https://opensource.org/licenses/MIT)，僅限用於與 TUMA 代幣相關之官方用途。
+### 🔹 代幣圖標（Token Assets）
+- `TUMA_Logo_64x64.png`
+- `TUMA_Logo_32x32.svg`
+- `TUMA_Logo_32x32.png`
+- `TUMA_Logo_256x256.png`（品牌擴充用途）
+
+### 🔹 Metadata
+- `info.json` — 標準 BEP20 代幣資訊，包含網站、區塊鏈瀏覽器、社群連結等
+
+### 🔹 官方文件（Documentation）
+- `Proof_of_Ownership_TurboManatee.pdf`
+- Tokenomics（三語版本）
+  - `TurboManatee_Tokenomics_Distribution_EN_v1.1.pdf`
+  - `TurboManatee_Tokenomics_Distribution_CN_v1.1.pdf`
+  - `TurboManatee_Tokenomics_Distribution_TW_v1.1.pdf`
+- Whitepaper（白皮書 v1.1）
+  - `TurboManatee_Whitepaper_EN_v1.1.pdf`
+  - `TurboManatee_Whitepaper_CN_v1.1.pdf`
+  - `TurboManatee_Whitepaper_TW_v1.1.pdf`
 
 ---
 
-## 📧 聯絡方式
+## 🌐 官方連結（Official Links）
+
+- **官方網站（Website）：** https://www.turbomanatee.com/  
+- **Telegram：** https://t.me/Turbo_Manatee  
+- **X（Twitter）：** https://x.com/Turbo_Manatee  
+- **GitHub 組織：** https://github.com/turbomanateegroups  
+
+---
+
+## 🔒 透明度與驗證（Transparency & Verification）
+
+Turbo Manatee（TUMA）是一個完全去中心化、由社群驅動的代幣，具備：
+
+- 已放棄合約所有權（Renounced Ownership）  
+- 公開鎖倉紀錄  
+- 透明的代幣分配  
+- 全部官方文件公開化  
+
+本資料庫提供所有第三方平台驗證所需之正式資料。
+
+---
+
+## 📧 聯絡方式（Contact）
+
+官方信箱：**turbomanateegroups@gmail.com**
+
+若審核團隊需要任何補充資料，歡迎與我們聯繫。
+
+---
 
 **Turbo Manatee 官方團隊**  
-🌐 [官方網站](https://www.turbomanatee.com) ｜ 🐦 [X（Twitter）](https://twitter.com/Turbo_Manatee) ｜ 💬 [Telegram](https://t.me/Turbo_Manatee)  
-📩 turbomanateegroups@gmail.com
+以透明、公平與社群為核心，推動 Web3 新宇宙。
