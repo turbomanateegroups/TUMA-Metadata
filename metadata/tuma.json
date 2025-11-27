@@ -1,0 +1,10 @@
+{
+  "name": "Turbo Manatee",
+  "symbol": "TUMA",
+  "description": "Turbo Manatee (TUMA) is a BNB Chain meme token created by the community.",
+  "decimals": 18,
+  "chainId": 56,
+  "address": "0xeD89776141b1A62ADfbf3c243b75600Eb2c4b430",
+  "logoURI": "https://raw.githubusercontent.com/turbomanateegroups/TUMA-Metadata/refs/heads/main/TUMA_Logo_512x512.png",
+  "tags": ["meme", "bnb", "tuma", "community"]
+}
