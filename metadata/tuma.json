@@ -5,8 +5,6 @@
   "decimals": 18,
   "chainId": 56,
   "address": "0xeD89776141b1A62ADfbf3c243b75600Eb2c4b430",
-  "logoURI": ""logoURI": "https://turbomanateegroups.github.io/TUMA-Metadata/TUMA_Logo_512x512.png"
-",
+  "logoURI": "https://turbomanateegroups.github.io/TUMA-Metadata/TUMA_Logo_512x512.png",
   "tags": ["meme", "bnb", "tuma", "community"]
 }
-
