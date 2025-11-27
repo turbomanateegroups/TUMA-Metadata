@@ -1,7 +1,6 @@
 {
   "name": "Turbo Manatee Token List",
-  "logoURI": ""logoURI": "https://turbomanateegroups.github.io/TUMA-Metadata/TUMA_Logo_512x512.png"
-",
+  "logoURI": "https://turbomanateegroups.github.io/TUMA-Metadata/TUMA_Logo_512x512.png",
   "timestamp": "2025-11-27T00:00:00+00:00",
   "tokens": [
     {
@@ -10,8 +9,7 @@
       "name": "Turbo Manatee",
       "symbol": "TUMA",
       "decimals": 18,
-      "logoURI": ""logoURI": "https://turbomanateegroups.github.io/TUMA-Metadata/TUMA_Logo_512x512.png"
-"
+      "logoURI": "https://turbomanateegroups.github.io/TUMA-Metadata/TUMA_Logo_512x512.png"
     }
   ],
   "version": {
@@ -20,4 +18,3 @@
     "patch": 0
   }
 }
-
